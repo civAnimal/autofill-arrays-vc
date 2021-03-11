@@ -1,0 +1,25 @@
+{
+    "name": "autofill-arrays",
+    "displayName": "AutoFill Arrays",
+    "description": "Fill arrays and other collections quickly and easily.",
+    "version": "0.0.1",
+    "publisher": "civAnimal",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/civAnimal/autofill-arrays-vc"
+    },
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
