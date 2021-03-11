@@ -1,1 +1,338 @@
-
+{
+	"fruitA": {
+			"prefix": "fruitA",
+			"body": "\"Apple\", \"Mango\", \"Avocado\", \"Cherry\", \"Pomegranate\""
+		},
+	"fruitB": {
+			"prefix": "fruitB",
+			"body": "\"Orange\", \"Apricot\", \"Strawberry\", \"Grapes\", \"Pear\""
+		},
+	"fruitC": {
+			"prefix": "fruitC",
+			"body": "\"Peach\", \"Plum\", \"Papaya\", \"Raspberry\", \"Banana\""
+		},
+	"fruitD": {
+			"prefix": "fruitD",
+			"body": "\"Guava\", \"Kumquat\", \"Tangerine\", \"Satsuma\", \"Huckleberry\", \"Jujube\", \"Watermellon\", \"Lychee\", \"Date\", \"Fig\""
+		},
+	"fruitE": {
+			"prefix": "fruitE",
+			"body": "\"Coconut\", \"Nectarine\", \"Cranberry\", \"Quince\", \"Yuzu\", \"Clementine\", \"Lemon\", \"Lime\", \"Mulberry\", \"Grapefruit\", \"Blueberry\", \"Passionfruit\", \"Mandarine\", \"Falsa\", \"Loquat\""
+		},
+	"animalA": {
+			"prefix": "animalA",
+			"body": "\"Lion\", \"Fox\", \"Zebra\", \"Dinosaur\", \"Wolf\""
+		},
+	"animalB": {
+			"prefix": "animalB",
+			"body": "\"Cheetah\", \"Bison\", \"Crocodile\", \"Gorilla\", \"Jackal\""
+		},
+	"animalC": {
+			"prefix": "animalC",
+			"body": "\"Leapord\", \"Panda\", \"Elephant\", \"Coyote\", \"Kangaroo\""
+		},
+	"animalD": {
+			"prefix": "animalD",
+			"body": "\"Tiger\", \"Chimpanzee\", \"Iguana\", \"Porcupine\", \"Llama\", \"Hound\", \"Bear\", \"Chipmunk\", \"Ferret\", \"Hippopotamus\""
+		},
+	"animalE": {
+			"prefix": "animalE",
+			"body": "\"Frog\", \"Walrus\", \"Octopus\", \"Crab\", \"Lobster\", \"Shrimp\", \"Turtle\", \"Toad\", \"Otter\", \"Alligator\""
+		},
+	"animalF": {
+			"prefix": "animalF",
+			"body": "\"Deer\", \"Racoon\", \"Skunk\", \"Badger\", \"Impala\", \"Beaver\", \"Gopher\", \"Armadillo\", \"Antelope\", \"Alpaca\""
+		},
+	"animalG": {
+			"prefix": "animalG",
+			"body": "\"Cat\", \"Dog\", \"Pig\", \"Horse\", \"Donkey\", \"Mule\", \"Camel\", \"Mouse\", \"Hamster\", \"Monkey\", \"Cow\", \"Buffalo\", \"Sheep\", \"Goat\", \"Rabbit\", \"Hare\", \"Lizard\", \"Tortoise\", \"Ox\""
+		},
+	"insectA": {
+			"prefix": "insectA",
+			"body": "\"Ant\", \"Spider\", \"Mosquito\", \"Dragonfly\", \"Butterfly\""
+		},
+	"insectB": {
+			"prefix": "insectB",
+			"body": "\"Moth\", \"Bee\", \"Cricket\", \"Scorpio\", \"Beetle\""
+		},
+	"insectC": {
+			"prefix": "insectC",
+			"body": "\"Fly\", \"Snail\", \"Ladybug\", \"Flea\", \"Caterpillar\""
+		},
+	"fishA": {
+			"prefix": "fishA",
+			"body": "\"Shark\", \"Whale\", \"Dolphin\", \"Salmon\", \"Trout\""
+		},
+	"fishB": {
+			"prefix": "fishB",
+			"body": "\"Pomfret\", \"Snapper\", \"Sardine\", \"Carp\", \"Koi\""
+		},
+	"fishC": {
+			"prefix": "fishC",
+			"body": "\"Piranha\", \"Chimaera\", \"Barracuda\", \"Mackerel\", \"Cod\""
+		},
+	"fishD": {
+			"prefix": "fishD",
+			"body": "\"Bowfin\", \"Angler\", \"Anchovy\", \"Duckbill\", \"Sabertooth\", \"Zander\", \"Zingel\", \"Dory\", \"Herring\", \"Mahi_Mahi\", \"Manta_Ray\", \"Stingray\", \"Sturgeon\", \"Goldfish\", \"Rohu\", \"Eel\""
+		},
+	"birdA": {
+			"prefix": "birdA",
+			"body": "\"Dove\", \"Eagle\", \"Raven\", \"Penguin\", \"Owl\""
+		},
+	"birdB": {
+			"prefix": "birdB",
+			"body": "\"Swan\", \"Robin\", \"Flamingo\", \"Peacock\", \"Macaw\""
+		},
+	"birdC": {
+			"prefix": "birdC",
+			"body": "\"Kiwi\", \"Ostrich\", \"Emu\", \"Turkey\", \"Chicken\""
+		},
+	"birdD": {
+			"prefix": "birdD",
+			"body": "\"Falcon\", \"Blue_Jay\", \"Seagull\", \"Mockingbird\", \"Qual\", \"Goose\", \"Pigeon\", \"Stork\", \"Cuckoo\", \"Parrot\""
+		},
+	"birdE": {
+			"prefix": "birdE",
+			"body": "\"Duck\", \"Hawk\", \"Pelican\", \"Woodpecker\", \"Kingfisher\", \"Hummingbird\", \"Crow\", \"Albatross\", \"Swallow\", \"Sparrow\", \"Wren\""
+		},
+	"flowerA": {
+			"prefix": "flowerA",
+			"body": "\"Rose\", \"Dahlia\", \"Magnolia\", \"Tulip\", \"Daisy\""
+		},
+	"flowerB": {
+			"prefix": "flowerB",
+			"body": "\"Sakura\", \"Zinnia\", \"Carnation\", \"Jasmine\", \"Lily\""
+		},
+	"flowerC": {
+			"prefix": "flowerC",
+			"body": "\"Iris\", \"Sage\", \"Azaleas\", \"Daffodil\", \"Lilac\""
+		},
+	"flowerD": {
+			"prefix": "flowerD",
+			"body": "\"Lotus\", \"Periwinkle\", \"Mimosa\", \"Lobelia\", \"Fuchsia\", \"Peony\", \"Snapdragon\", \"Hollyhock\", \"Primrose\", \"Cosmos\""
+		},
+	"flowerE": {
+			"prefix": "flowerE",
+			"body": "\"Pansie\", \"Orchid\", \"Acacia\", \"Snowdrop\", \"Sunflower\", \"Dandelion\", \"Morning_Glory\", \"Buttercup\", \"Marigold\", \"Lavender\", \"Petunia\", \"Crocus\", \"Poppy\""
+		},
+	"vegetableA": {
+			"prefix": "vegetableA",
+			"body": "\"Potato\", \"Pumpkin\", \"Cabbage\", \"Broccoli\", \"Paprika\""
+		},
+	"vegetableB": {
+			"prefix": "vegetableB",
+			"body": "\"Spinach\", \"Scallion\", \"Cucumber\", \"Carrot\", \"Tomato\""
+		},
+	"vegetableC": {
+			"prefix": "vegetableC",
+			"body": "\"Basil\", \"Oregano\", \"Rosemary\", \"Parsley\", \"Thyme\""
+		},
+	"vegetableD": {
+			"prefix": "vegetableD",
+			"body": "\"Wasabi\", \"Ginger\", \"Coriander\", \"Fennel\", \"Jalapeno\", \"Peanuts\", \"Anise\", \"Lavender\", \"Garlic\", \"Zucchini\""
+		},
+	"vegetableE": {
+			"prefix": "vegetableE",
+			"body": "\"Mushroom\", \"Onion\", \"Chickpeas\", \"Chamomile\", \"Lemongrass\", \"Chives\", \"Leek\", \"Rhubarb\", \"Celery\", \"Okra\""
+		},
+	"vegetableF": {
+			"prefix": "vegetableF",
+			"body": "\"Turnip\", \"Shallot\", \"Lettuce\", \"Artichoke\", \"Aubergine\", \"Asparagus\", \"Cauliflower\", \"Beetroot\", \"Pepper\", \"Parsnip\", \"Alfalfa\", \"Diakon\", \"Peas\", \"Yam\""
+		},
+	"zodiac": {
+			"prefix": "zodiac",
+			"body": "\"Aries\", \"Taurus\", \"Gemini\", \"Cancer\", \"Leo\", \"Virgo\", \"Libra\", \"Scorpio\", \"Sagittarius\", \"Capricorn\", \"Aquarius\", \"Pisces\""
+		},
+	"planet": {
+			"prefix": "planet",
+			"body": "\"Mercury\", \"Venus\", \"Earth\", \"Mars\", \"Jupiter\", \"Saturn\", \"Uranus\", \"Neptune\""
+		},
+	"day": {
+			"prefix": "day",
+			"body": "\"Saturday\", \"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\""
+		},
+	"month": {
+			"prefix": "month",
+			"body": "\"January\", \"February\", \"March\", \"April\", \"May\", \"June\", \"July\", \"August\", \"September\", \"October\", \"November\", \"December\""
+		},
+	"greek": {
+			"prefix": "greek",
+			"body": "\"Aphrodite\", \"Athena\", \"Artemis\", \"Ares\", \"Apollo\", \"Demeter\", \"Dionysus\", \"Hades\", \"Hera\", \"Hermes\", \"Poseidon\", \"Zeus\""
+		},
+	"roman": {
+			"prefix": "roman",
+			"body": "\"Venus\", \"Minerva\", \"Diana\", \"Mars\", \"Apollo\", \"Ceres\", \"Bacchus\", \"Pluto\", \"Juno\", \"Mercury\", \"Neptune\", \"Jupiter\""
+		},
+	"colorPrimary": {
+			"prefix": "colorPrimary",
+			"body": "\"Red\", \"Yellow\", \"Blue\""
+		},
+	"colorSecondary": {
+			"prefix": "colorSecondary",
+			"body": "\"Orange\", \"Green\", \"Violet\""
+		},
+	"colorTertiary": {
+			"prefix": "colorTertiary",
+			"body": "\"Red_Orange\", \"Yellow_Orange\", \"Blue_Green\", \"Yellow_Green\", \"Red_Violet\", \"Blue_Violet\""
+		},
+	"colorRainbow": {
+			"prefix": "colorRainbow",
+			"body": "\"Red\", \"Orange\", \"Yellow\", \"Green\", \"Blue\", \"Indigo\", \"Violet\""
+		},
+	"drink": {
+			"prefix": "drink",
+			"body": "\"Water\", \"Milk\", \"Tea\", \"Coffee\", \"Lemonade\", \"Juice\", \"Milkshake\", \"Smoothie\", \"Soda\", \"Beer\", \"Wine\""
+		},
+	"foodA": {
+			"prefix": "foodA",
+			"body": "\"Bread\", \"Cake\", \"Pizza\", \"Pasta\", \"Honey\""
+		},
+	"foodB": {
+			"prefix": "foodB",
+			"body": "\"Rice\", \"Burger\", \"Cookies\", \"Spaghetti\", \"Donut\""
+		},
+	"foodC": {
+			"prefix": "foodC",
+			"body": "\"Milk\", \"Cream\", \"Butter\", \"Yogurt\", \"Cheese\""
+		},
+	"foodD": {
+			"prefix": "foodD",
+			"body": "\"Sushi\", \"Pudding\", \"Sandwich\", \"Salsa\", \"Bagel\", \"Bacon\", \"Sausage\", \"Lasagna\", \"Muffin\", \"Pie\""
+		},
+	"foodE": {
+			"prefix": "foodE",
+			"body": "\"Chips\", \"Popcorn\", \"Ravioli\", \"Doritos\", \"Tacos\", \"Burritos\", \"Croissant\", \"Biscuit\", \"Enchilada\", \"Nachos\""
+		},
+	"elementA": {
+			"prefix": "elementA",
+			"body": "\"Hydrogen\", \"Helium\", \"Lithium\", \"Beryllium\", \"Boron\""
+		},
+	"elementB": {
+			"prefix": "elementB",
+			"body": "\"Carbon\", \"Nitrogen\", \"Oxygen\", \"Fluorine\", \"Neon\""
+		},
+	"elementC": {
+			"prefix": "elementC",
+			"body": "\"Sodium\", \"Magnesium\", \"Aluminium\", \"Silicon\", \"Phosphorus\""
+		},
+	"elementD": {
+			"prefix": "elementD",
+			"body": "\"Sulfur\", \"Chlorine\", \"Argon\", \"Potassium\", \"Calcium\", \"Scandium\", \"Titanium\", \"Vanadium\", \"Chromium\", \"Manganese\""
+		},
+	"elementE": {
+			"prefix": "elementE",
+			"body": "\"Iron\", \"Cobalt\", \"Nickel\", \"Copper\", \"Zinc\", \"Gallium\", \"Germanium\", \"Arsenic\", \"Selenium\", \"Bromine\""
+		},
+	"elementF": {
+			"prefix": "elementF",
+			"body": "\"Krypton\", \"Rubidium\", \"Strontium\", \"Yttrium\", \"Zirconium\", \"Niobium\", \"Molybdenum\", \"Technetium\", \"Ruthenium\", \"Rhodium\""
+		},
+	"elementG": {
+			"prefix": "elementG",
+			"body": "\"Palladium\", \"Silver\", \"Cadmium\", \"Indium\", \"Tin\", \"Antimony\", \"Tellurium\", \"Iodine\", \"Xenon\", \"Caesium\""
+		},
+	"elementH": {
+			"prefix": "elementH",
+			"body": "\"Barium\", \"Lanthanum\", \"Cerium\", \"Praseodymium\", \"Neodymium\", \"Promethium\", \"Samarium\", \"Europium\", \"Gadolinium\", \"Terbium\""
+		},
+	"elementI": {
+			"prefix": "elementI",
+			"body": "\"Dysprosium\", \"Holmium\", \"Erbium\", \"Thulium\", \"Ytterbium\", \"Lutetium\", \"Hafnium\", \"Tantalum\", \"Tungsten\", \"Rhenium\""
+		},
+	"elementJ": {
+			"prefix": "elementJ",
+			"body": "\"Osmium\", \"Iridium\", \"Platinum\", \"Gold\", \"Mercury\", \"Thallium\", \"Lead\", \"Bismuth\", \"Polonium\", \"Astatine\""
+		},
+	"elementK": {
+			"prefix": "elementK",
+			"body": "\"Radon\", \"Francium\", \"Radium\", \"Actinium\", \"Thorium\", \"Protactinium\", \"Uranium\", \"Neptunium\", \"Plutonium\", \"Americium\""
+		},
+	"elementL": {
+			"prefix": "elementL",
+			"body": "\"Curium\", \"Berkelium\", \"Californium\", \"Einsteinium\", \"Fermium\", \"Mendelevium\", \"Nobelium\", \"Lawrencium\", \"Rutherfordium\", \"Dubnium\""
+		},
+	"elementM": {
+			"prefix": "elementM",
+			"body": "\"Seaborgium\", \"Bohrium\", \"Hassium\", \"Meitnerium\", \"Darmstadtium\", \"Roentgenium\", \"Copernicium\", \"Nihonium\", \"Flerovium\", \"Moscovium\", \"Livermorium\", \"Tennessine\", \"Oganesson\""
+		},
+	"metalPrecious": {
+			"prefix": "metalPrecious",
+			"body": "\"Platinum\", \"Palladium\", \"Gold\", \"Silver\""
+		},
+	"metalIndustrial": {
+			"prefix": "metalIndustrial",
+			"body": "\"Iron\", \"Steel\", \"Aluminium\", \"Copper\", \"Lead\", \"Tin\", \"Zinc\", \"Nickel\", \"Magnesium\""
+		},
+	"season": {
+			"prefix": "season",
+			"body": "\"Summer\", \"Autumn\", \"Winter\", \"Spring\""
+		},
+	"gemA": {
+			"prefix": "gemA",
+			"body": "\"Diamond\", \"Emerald\", \"Sapphire\", \"Ruby\", \"Pearl\""
+		},
+	"gemB": {
+			"prefix": "gemB",
+			"body": "\"Opal\", \"Topaz\", \"Amber\", \"Obsidian\", \"Tourmaline\", \"Zircon\""
+		},
+	"ocean": {
+			"prefix": "ocean",
+			"body": "\"Pacific Ocean\", \"Atlantic Ocean\", \"Indian Ocean\", \"Southern Ocean\", \"Arctic Ocean\""
+		},
+	"seaA": {
+			"prefix": "seaA",
+			"body": "\"Mediterranean Sea\", \"Caribbean Sea\", \"South China Sea\", \"Bering Sea\", \"Gulf Of Mexico\""
+		},
+	"seaB": {
+			"prefix": "seaB",
+			"body": "\"Okhotsk Sea\", \"Eash China Sea\", \"Hudson Bay\", \"Japan Sea\", \"Andaman Sea\", \"North Sea\", \"Red Sea\", \"Baltic Sea\""
+		},
+	"riverA": {
+			"prefix": "riverA",
+			"body": "\"Amazon\", \"Nile\", \"Yangtze\", \"Danube\", \"Ganges\""
+		},
+	"riverB": {
+			"prefix": "riverB",
+			"body": "\"Mekong\", \"Indus\", \"Volga\", \"Mississippi\", \"Sepik\""
+		},
+	"riverC": {
+			"prefix": "riverC",
+			"body": "\"Zambezi\", \"Euphrates\", \"Murray\", \"Tigris\", \"Zaire\""
+		},
+	"treeA": {
+			"prefix": "treeA",
+			"body": "\"Oak\", \"Maple\", \"Pine\", \"Sycamore\", \"Willow\""
+		},
+	"treeB": {
+			"prefix": "treeB",
+			"body": "\"Cedar\", \"Mahogany\", \"Palm\", \"Birch\", \"Fern\""
+		},
+	"treeC": {
+			"prefix": "treeC",
+			"body": "\"Acacia\", \"Hickory\", \"Mulberry\", \"Hibiscus\", \"Lilac\""
+		},
+	"treeD": {
+			"prefix": "treeD",
+			"body": "\"Myrtle\", \"Rosewood\", \"Poplar\", \"Sumac\", \"Zaragoza\", \"Spruce\", \"Koyamaki\", \"Fig\", \"Olive\", \"Camellia\""
+		},
+	"treeE": {
+			"prefix": "treeE",
+			"body": "\"Papaya\", \"Sandalwood\", \"Candleberry\", \"Mimosa\", \"Locust\", \"Amborella\", \"Hemlock\", \"Aspen\", \"Ash\", \"Beech\", \"Elm\""
+		},
+	"languageA": {
+			"prefix": "languageA",
+			"body": "\"English\", \"Mandarin\", \"Hindi\", \"Spanish\", \"French\""
+		},
+	"languageB": {
+			"prefix": "languageB",
+			"body": "\"Arabic\", \"Bengali\", \"Russian\", \"Portuguese\", \"Indonesian\""
+		},
+	"languageC": {
+			"prefix": "languageC",
+			"body": "\"Urdu\", \"German\", \"Japanese\", \"Swahili\", \"Marathi\""
+		},
+	"languageD": {
+			"prefix": "languageD",
+			"body": "\"Telugu\", \"Punjabi\", \"Wu\", \"Tamil\", \"Turkish\""
+		}
+}
