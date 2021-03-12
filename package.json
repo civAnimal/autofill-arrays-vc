@@ -2,8 +2,9 @@
     "name": "autofill-arrays",
     "displayName": "AutoFill Arrays",
     "description": "Fill arrays and other collections quickly and easily.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "civAnimal",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/civAnimal/autofill-arrays-vc"
