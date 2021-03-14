@@ -1,6 +1,11 @@
 # Change Log
 
 
+## 0.0.3
+
+- added `Numbers` category
+
+
 ## 0.0.2
 
 - added icon.png
