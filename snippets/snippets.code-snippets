@@ -334,5 +334,101 @@
 	"languageD": {
 			"prefix": "languageD",
 			"body": "\"Telugu\", \"Punjabi\", \"Wu\", \"Tamil\", \"Turkish\""
+		},
+	"numbersA": {
+			"prefix": "numbersA",
+			"body": "301, 302, 303, 304, 305"
+		},
+	"numbersB": {
+			"prefix": "numbersB",
+			"body": "306, 307, 308, 309, 310"
+		},
+	"numbersC": {
+			"prefix": "numbersC",
+			"body": "311, 312, 313, 314, 315"
+		},
+	"numbersD": {
+			"prefix": "numbersD",
+			"body": "316, 317, 318, 319, 320, 321, 322, 323, 324, 325"
+		},
+	"numbersE": {
+			"prefix": "numbersE",
+			"body": "326, 327, 328, 329, 330, 331, 332, 333, 334, 335"
+		},
+	"numbersF": {
+			"prefix": "numbersF",
+			"body": "336, 337, 338, 339, 340, 341, 342, 343, 344, 345"
+		},
+	"numbersOddA": {
+			"prefix": "numbersOddA",
+			"body": "301, 303, 305, 307, 309"
+		},
+	"numbersOddB": {
+			"prefix": "numbersOddB",
+			"body": "311, 313, 315, 317, 319"
+		},
+	"numbersOddC": {
+			"prefix": "numbersOddC",
+			"body": "321, 323, 325, 327, 329"
+		},
+	"numbersOddD": {
+			"prefix": "numbersOddD",
+			"body": "331, 333, 335, 337, 339, 341, 343, 345, 347, 349"
+		},
+	"numbersOddE": {
+			"prefix": "numbersOddE",
+			"body": "351, 353, 355, 357, 359, 361, 363, 365, 367, 369"
+		},
+	"numbersOddF": {
+			"prefix": "numbersOddF",
+			"body": "371, 373, 375, 377, 379, 381, 383, 385, 387, 389"
+		},
+	"numbersEvenA": {
+			"prefix": "numbersEvenA",
+			"body": "302, 304, 306, 308, 310"
+		},
+	"numbersEvenB": {
+			"prefix": "numbersEvenB",
+			"body": "312, 314, 316, 318, 320"
+		},
+	"numbersEvenC": {
+			"prefix": "numbersEvenC",
+			"body": "322, 324, 326, 328, 330"
+		},
+	"numbersEvenD": {
+			"prefix": "numbersEvenD",
+			"body": "332, 334, 336, 338, 340, 342, 344, 346, 348, 350"
+		},
+	"numbersEvenE": {
+			"prefix": "numbersEvenE",
+			"body": "352, 354, 356, 358, 360, 362, 364, 366, 368, 370"
+		},
+	"numbersEvenF": {
+			"prefix": "numbersEvenF",
+			"body": "372, 374, 376, 378, 380, 382, 384, 386, 388, 390"
+		},
+	"numbersPrimeA": {
+			"prefix": "numbersPrimeA",
+			"body": "2, 3, 5, 7, 11"
+		},
+	"numbersPrimeB": {
+			"prefix": "numbersPrimeB",
+			"body": "13, 17, 19, 23, 29"
+		},
+	"numbersPrimeC": {
+			"prefix": "numbersPrimeC",
+			"body": "31, 37, 41, 43, 47"
+		},
+	"numbersPrimeD": {
+			"prefix": "numbersPrimeD",
+			"body": "53, 59, 61, 67, 71, 73, 79, 83, 89, 97"
+		},
+	"numbersPrimeE": {
+			"prefix": "numbersPrimeE",
+			"body": "101, 103, 107, 109, 113, 127, 131, 137, 139, 149"
+		},
+	"numbersPrimeF": {
+			"prefix": "numbersPrimeF",
+			"body": "151, 157, 163, 167, 173, 179, 181, 191, 193, 197"
 		}
 }
