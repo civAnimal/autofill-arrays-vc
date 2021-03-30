@@ -1,62 +1,62 @@
 {
-	"fruitA": {
-			"prefix": "fruitA",
+	"fruitsA": {
+			"prefix": "fruitsA",
 			"body": "\"Apple\", \"Mango\", \"Avocado\", \"Cherry\", \"Pomegranate\""
 		},
-	"fruitB": {
-			"prefix": "fruitB",
+	"fruitsB": {
+			"prefix": "fruitsB",
 			"body": "\"Orange\", \"Apricot\", \"Strawberry\", \"Grapes\", \"Pear\""
 		},
-	"fruitC": {
-			"prefix": "fruitC",
+	"fruitsC": {
+			"prefix": "fruitsC",
 			"body": "\"Peach\", \"Plum\", \"Papaya\", \"Raspberry\", \"Banana\""
 		},
-	"fruitD": {
-			"prefix": "fruitD",
+	"fruitsD": {
+			"prefix": "fruitsD",
 			"body": "\"Guava\", \"Kumquat\", \"Tangerine\", \"Satsuma\", \"Huckleberry\", \"Jujube\", \"Watermellon\", \"Lychee\", \"Date\", \"Fig\""
 		},
-	"fruitE": {
-			"prefix": "fruitE",
+	"fruitsE": {
+			"prefix": "fruitsE",
 			"body": "\"Coconut\", \"Nectarine\", \"Cranberry\", \"Quince\", \"Yuzu\", \"Clementine\", \"Lemon\", \"Lime\", \"Mulberry\", \"Grapefruit\", \"Blueberry\", \"Passionfruit\", \"Mandarine\", \"Falsa\", \"Loquat\""
 		},
-	"animalA": {
-			"prefix": "animalA",
+	"animalsA": {
+			"prefix": "animalsA",
 			"body": "\"Lion\", \"Fox\", \"Zebra\", \"Dinosaur\", \"Wolf\""
 		},
-	"animalB": {
-			"prefix": "animalB",
+	"animalsB": {
+			"prefix": "animalsB",
 			"body": "\"Cheetah\", \"Bison\", \"Crocodile\", \"Gorilla\", \"Jackal\""
 		},
-	"animalC": {
-			"prefix": "animalC",
+	"animalsC": {
+			"prefix": "animalsC",
 			"body": "\"Leapord\", \"Panda\", \"Elephant\", \"Coyote\", \"Kangaroo\""
 		},
-	"animalD": {
-			"prefix": "animalD",
+	"animalsD": {
+			"prefix": "animalsD",
 			"body": "\"Tiger\", \"Chimpanzee\", \"Iguana\", \"Porcupine\", \"Llama\", \"Hound\", \"Bear\", \"Chipmunk\", \"Ferret\", \"Hippopotamus\""
 		},
-	"animalE": {
-			"prefix": "animalE",
+	"animalsE": {
+			"prefix": "animalsE",
 			"body": "\"Frog\", \"Walrus\", \"Octopus\", \"Crab\", \"Lobster\", \"Shrimp\", \"Turtle\", \"Toad\", \"Otter\", \"Alligator\""
 		},
-	"animalF": {
-			"prefix": "animalF",
+	"animalsF": {
+			"prefix": "animalsF",
 			"body": "\"Deer\", \"Racoon\", \"Skunk\", \"Badger\", \"Impala\", \"Beaver\", \"Gopher\", \"Armadillo\", \"Antelope\", \"Alpaca\""
 		},
-	"animalG": {
-			"prefix": "animalG",
+	"animalsG": {
+			"prefix": "animalsG",
 			"body": "\"Cat\", \"Dog\", \"Pig\", \"Horse\", \"Donkey\", \"Mule\", \"Camel\", \"Mouse\", \"Hamster\", \"Monkey\", \"Cow\", \"Buffalo\", \"Sheep\", \"Goat\", \"Rabbit\", \"Hare\", \"Lizard\", \"Tortoise\", \"Ox\""
 		},
-	"insectA": {
-			"prefix": "insectA",
+	"insectsA": {
+			"prefix": "insectsA",
 			"body": "\"Ant\", \"Spider\", \"Mosquito\", \"Dragonfly\", \"Butterfly\""
 		},
-	"insectB": {
-			"prefix": "insectB",
+	"insectsB": {
+			"prefix": "insectsB",
 			"body": "\"Moth\", \"Bee\", \"Cricket\", \"Scorpio\", \"Beetle\""
 		},
-	"insectC": {
-			"prefix": "insectC",
+	"insectsC": {
+			"prefix": "insectsC",
 			"body": "\"Fly\", \"Snail\", \"Ladybug\", \"Flea\", \"Caterpillar\""
 		},
 	"fishA": {
@@ -75,265 +75,273 @@
 			"prefix": "fishD",
 			"body": "\"Bowfin\", \"Angler\", \"Anchovy\", \"Duckbill\", \"Sabertooth\", \"Zander\", \"Zingel\", \"Dory\", \"Herring\", \"Mahi_Mahi\", \"Manta_Ray\", \"Stingray\", \"Sturgeon\", \"Goldfish\", \"Rohu\", \"Eel\""
 		},
-	"birdA": {
-			"prefix": "birdA",
+	"birdsA": {
+			"prefix": "birdsA",
 			"body": "\"Dove\", \"Eagle\", \"Raven\", \"Penguin\", \"Owl\""
 		},
-	"birdB": {
-			"prefix": "birdB",
+	"birdsB": {
+			"prefix": "birdsB",
 			"body": "\"Swan\", \"Robin\", \"Flamingo\", \"Peacock\", \"Macaw\""
 		},
-	"birdC": {
-			"prefix": "birdC",
+	"birdsC": {
+			"prefix": "birdsC",
 			"body": "\"Kiwi\", \"Ostrich\", \"Emu\", \"Turkey\", \"Chicken\""
 		},
-	"birdD": {
-			"prefix": "birdD",
+	"birdsD": {
+			"prefix": "birdsD",
 			"body": "\"Falcon\", \"Blue_Jay\", \"Seagull\", \"Mockingbird\", \"Qual\", \"Goose\", \"Pigeon\", \"Stork\", \"Cuckoo\", \"Parrot\""
 		},
-	"birdE": {
-			"prefix": "birdE",
+	"birdsE": {
+			"prefix": "birdsE",
 			"body": "\"Duck\", \"Hawk\", \"Pelican\", \"Woodpecker\", \"Kingfisher\", \"Hummingbird\", \"Crow\", \"Albatross\", \"Swallow\", \"Sparrow\", \"Wren\""
 		},
-	"flowerA": {
-			"prefix": "flowerA",
+	"flowersA": {
+			"prefix": "flowersA",
 			"body": "\"Rose\", \"Dahlia\", \"Magnolia\", \"Tulip\", \"Daisy\""
 		},
-	"flowerB": {
-			"prefix": "flowerB",
+	"flowersB": {
+			"prefix": "flowersB",
 			"body": "\"Sakura\", \"Zinnia\", \"Carnation\", \"Jasmine\", \"Lily\""
 		},
-	"flowerC": {
-			"prefix": "flowerC",
+	"flowersC": {
+			"prefix": "flowersC",
 			"body": "\"Iris\", \"Sage\", \"Azaleas\", \"Daffodil\", \"Lilac\""
 		},
-	"flowerD": {
-			"prefix": "flowerD",
+	"flowersD": {
+			"prefix": "flowersD",
 			"body": "\"Lotus\", \"Periwinkle\", \"Mimosa\", \"Lobelia\", \"Fuchsia\", \"Peony\", \"Snapdragon\", \"Hollyhock\", \"Primrose\", \"Cosmos\""
 		},
-	"flowerE": {
-			"prefix": "flowerE",
+	"flowersE": {
+			"prefix": "flowersE",
 			"body": "\"Pansie\", \"Orchid\", \"Acacia\", \"Snowdrop\", \"Sunflower\", \"Dandelion\", \"Morning_Glory\", \"Buttercup\", \"Marigold\", \"Lavender\", \"Petunia\", \"Crocus\", \"Poppy\""
 		},
-	"vegetableA": {
-			"prefix": "vegetableA",
+	"vegetablesA": {
+			"prefix": "vegetablesA",
 			"body": "\"Potato\", \"Pumpkin\", \"Cabbage\", \"Broccoli\", \"Paprika\""
 		},
-	"vegetableB": {
-			"prefix": "vegetableB",
+	"vegetablesB": {
+			"prefix": "vegetablesB",
 			"body": "\"Spinach\", \"Scallion\", \"Cucumber\", \"Carrot\", \"Tomato\""
 		},
-	"vegetableC": {
-			"prefix": "vegetableC",
+	"vegetablesC": {
+			"prefix": "vegetablesC",
 			"body": "\"Basil\", \"Oregano\", \"Rosemary\", \"Parsley\", \"Thyme\""
 		},
-	"vegetableD": {
-			"prefix": "vegetableD",
+	"vegetablesD": {
+			"prefix": "vegetablesD",
 			"body": "\"Wasabi\", \"Ginger\", \"Coriander\", \"Fennel\", \"Jalapeno\", \"Peanuts\", \"Anise\", \"Lavender\", \"Garlic\", \"Zucchini\""
 		},
-	"vegetableE": {
-			"prefix": "vegetableE",
+	"vegetablesE": {
+			"prefix": "vegetablesE",
 			"body": "\"Mushroom\", \"Onion\", \"Chickpeas\", \"Chamomile\", \"Lemongrass\", \"Chives\", \"Leek\", \"Rhubarb\", \"Celery\", \"Okra\""
 		},
-	"vegetableF": {
-			"prefix": "vegetableF",
-			"body": "\"Turnip\", \"Shallot\", \"Lettuce\", \"Artichoke\", \"Aubergine\", \"Asparagus\", \"Cauliflower\", \"Beetroot\", \"Pepper\", \"Parsnip\", \"Alfalfa\", \"Diakon\", \"Peas\", \"Yam\""
+	"vegetablesF": {
+			"prefix": "vegetablesF",
+			"body": "\"Turnip\", \"Shallot\", \"Lettuce\", \"Artichoke\", \"Aubergine\", \"Asparagus\", \"Cauliflower\", \"Beetroot\", \"Pepper\", \"Parsnip\", \"Alfalfa\", \"Daikon\", \"Peas\", \"Yam\""
 		},
-	"zodiac": {
-			"prefix": "zodiac",
+	"zodiacs": {
+			"prefix": "zodiacs",
 			"body": "\"Aries\", \"Taurus\", \"Gemini\", \"Cancer\", \"Leo\", \"Virgo\", \"Libra\", \"Scorpio\", \"Sagittarius\", \"Capricorn\", \"Aquarius\", \"Pisces\""
 		},
-	"planet": {
-			"prefix": "planet",
+	"planets": {
+			"prefix": "planets",
 			"body": "\"Mercury\", \"Venus\", \"Earth\", \"Mars\", \"Jupiter\", \"Saturn\", \"Uranus\", \"Neptune\""
 		},
-	"day": {
-			"prefix": "day",
+	"days": {
+			"prefix": "days",
 			"body": "\"Saturday\", \"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\""
 		},
-	"month": {
-			"prefix": "month",
+	"months": {
+			"prefix": "months",
 			"body": "\"January\", \"February\", \"March\", \"April\", \"May\", \"June\", \"July\", \"August\", \"September\", \"October\", \"November\", \"December\""
 		},
-	"greek": {
-			"prefix": "greek",
+	"greeks": {
+			"prefix": "greeks",
 			"body": "\"Aphrodite\", \"Athena\", \"Artemis\", \"Ares\", \"Apollo\", \"Demeter\", \"Dionysus\", \"Hades\", \"Hera\", \"Hermes\", \"Poseidon\", \"Zeus\""
 		},
-	"roman": {
-			"prefix": "roman",
+	"romans": {
+			"prefix": "romans",
 			"body": "\"Venus\", \"Minerva\", \"Diana\", \"Mars\", \"Apollo\", \"Ceres\", \"Bacchus\", \"Pluto\", \"Juno\", \"Mercury\", \"Neptune\", \"Jupiter\""
 		},
-	"colorPrimary": {
-			"prefix": "colorPrimary",
+	"colorsPrimary": {
+			"prefix": "colorsPrimary",
 			"body": "\"Red\", \"Yellow\", \"Blue\""
 		},
-	"colorSecondary": {
-			"prefix": "colorSecondary",
+	"colorsSecondary": {
+			"prefix": "colorsSecondary",
 			"body": "\"Orange\", \"Green\", \"Violet\""
 		},
-	"colorTertiary": {
-			"prefix": "colorTertiary",
+	"colorsTertiary": {
+			"prefix": "colorsTertiary",
 			"body": "\"Red_Orange\", \"Yellow_Orange\", \"Blue_Green\", \"Yellow_Green\", \"Red_Violet\", \"Blue_Violet\""
 		},
-	"colorRainbow": {
-			"prefix": "colorRainbow",
+	"colorsRainbow": {
+			"prefix": "colorsRainbow",
 			"body": "\"Red\", \"Orange\", \"Yellow\", \"Green\", \"Blue\", \"Indigo\", \"Violet\""
 		},
-	"drink": {
-			"prefix": "drink",
+	"drinks": {
+			"prefix": "drinks",
 			"body": "\"Water\", \"Milk\", \"Tea\", \"Coffee\", \"Lemonade\", \"Juice\", \"Milkshake\", \"Smoothie\", \"Soda\", \"Beer\", \"Wine\""
 		},
-	"foodA": {
-			"prefix": "foodA",
+	"foodsA": {
+			"prefix": "foodsA",
 			"body": "\"Bread\", \"Cake\", \"Pizza\", \"Pasta\", \"Honey\""
 		},
-	"foodB": {
-			"prefix": "foodB",
+	"foodsB": {
+			"prefix": "foodsB",
 			"body": "\"Rice\", \"Burger\", \"Cookies\", \"Spaghetti\", \"Donut\""
 		},
-	"foodC": {
-			"prefix": "foodC",
+	"foodsC": {
+			"prefix": "foodsC",
 			"body": "\"Milk\", \"Cream\", \"Butter\", \"Yogurt\", \"Cheese\""
 		},
-	"foodD": {
-			"prefix": "foodD",
+	"foodsD": {
+			"prefix": "foodsD",
 			"body": "\"Sushi\", \"Pudding\", \"Sandwich\", \"Salsa\", \"Bagel\", \"Bacon\", \"Sausage\", \"Lasagna\", \"Muffin\", \"Pie\""
 		},
-	"foodE": {
-			"prefix": "foodE",
+	"foodsE": {
+			"prefix": "foodsE",
 			"body": "\"Chips\", \"Popcorn\", \"Ravioli\", \"Doritos\", \"Tacos\", \"Burritos\", \"Croissant\", \"Biscuit\", \"Enchilada\", \"Nachos\""
 		},
-	"elementA": {
-			"prefix": "elementA",
+	"elementsA": {
+			"prefix": "elementsA",
 			"body": "\"Hydrogen\", \"Helium\", \"Lithium\", \"Beryllium\", \"Boron\""
 		},
-	"elementB": {
-			"prefix": "elementB",
+	"elementsB": {
+			"prefix": "elementsB",
 			"body": "\"Carbon\", \"Nitrogen\", \"Oxygen\", \"Fluorine\", \"Neon\""
 		},
-	"elementC": {
-			"prefix": "elementC",
+	"elementsC": {
+			"prefix": "elementsC",
 			"body": "\"Sodium\", \"Magnesium\", \"Aluminium\", \"Silicon\", \"Phosphorus\""
 		},
-	"elementD": {
-			"prefix": "elementD",
+	"elementsD": {
+			"prefix": "elementsD",
 			"body": "\"Sulfur\", \"Chlorine\", \"Argon\", \"Potassium\", \"Calcium\", \"Scandium\", \"Titanium\", \"Vanadium\", \"Chromium\", \"Manganese\""
 		},
-	"elementE": {
-			"prefix": "elementE",
+	"elementsE": {
+			"prefix": "elementsE",
 			"body": "\"Iron\", \"Cobalt\", \"Nickel\", \"Copper\", \"Zinc\", \"Gallium\", \"Germanium\", \"Arsenic\", \"Selenium\", \"Bromine\""
 		},
-	"elementF": {
-			"prefix": "elementF",
+	"elementsF": {
+			"prefix": "elementsF",
 			"body": "\"Krypton\", \"Rubidium\", \"Strontium\", \"Yttrium\", \"Zirconium\", \"Niobium\", \"Molybdenum\", \"Technetium\", \"Ruthenium\", \"Rhodium\""
 		},
-	"elementG": {
-			"prefix": "elementG",
+	"elementsG": {
+			"prefix": "elementsG",
 			"body": "\"Palladium\", \"Silver\", \"Cadmium\", \"Indium\", \"Tin\", \"Antimony\", \"Tellurium\", \"Iodine\", \"Xenon\", \"Caesium\""
 		},
-	"elementH": {
-			"prefix": "elementH",
+	"elementsH": {
+			"prefix": "elementsH",
 			"body": "\"Barium\", \"Lanthanum\", \"Cerium\", \"Praseodymium\", \"Neodymium\", \"Promethium\", \"Samarium\", \"Europium\", \"Gadolinium\", \"Terbium\""
 		},
-	"elementI": {
-			"prefix": "elementI",
+	"elementsI": {
+			"prefix": "elementsI",
 			"body": "\"Dysprosium\", \"Holmium\", \"Erbium\", \"Thulium\", \"Ytterbium\", \"Lutetium\", \"Hafnium\", \"Tantalum\", \"Tungsten\", \"Rhenium\""
 		},
-	"elementJ": {
-			"prefix": "elementJ",
+	"elementsJ": {
+			"prefix": "elementsJ",
 			"body": "\"Osmium\", \"Iridium\", \"Platinum\", \"Gold\", \"Mercury\", \"Thallium\", \"Lead\", \"Bismuth\", \"Polonium\", \"Astatine\""
 		},
-	"elementK": {
-			"prefix": "elementK",
+	"elementsK": {
+			"prefix": "elementsK",
 			"body": "\"Radon\", \"Francium\", \"Radium\", \"Actinium\", \"Thorium\", \"Protactinium\", \"Uranium\", \"Neptunium\", \"Plutonium\", \"Americium\""
 		},
-	"elementL": {
-			"prefix": "elementL",
+	"elementsL": {
+			"prefix": "elementsL",
 			"body": "\"Curium\", \"Berkelium\", \"Californium\", \"Einsteinium\", \"Fermium\", \"Mendelevium\", \"Nobelium\", \"Lawrencium\", \"Rutherfordium\", \"Dubnium\""
 		},
-	"elementM": {
-			"prefix": "elementM",
+	"elementsM": {
+			"prefix": "elementsM",
 			"body": "\"Seaborgium\", \"Bohrium\", \"Hassium\", \"Meitnerium\", \"Darmstadtium\", \"Roentgenium\", \"Copernicium\", \"Nihonium\", \"Flerovium\", \"Moscovium\", \"Livermorium\", \"Tennessine\", \"Oganesson\""
 		},
-	"metalPrecious": {
-			"prefix": "metalPrecious",
+	"metalsPrecious": {
+			"prefix": "metalsPrecious",
 			"body": "\"Platinum\", \"Palladium\", \"Gold\", \"Silver\""
 		},
-	"metalIndustrial": {
-			"prefix": "metalIndustrial",
+	"metalsIndustrial": {
+			"prefix": "metalsIndustrial",
 			"body": "\"Iron\", \"Steel\", \"Aluminium\", \"Copper\", \"Lead\", \"Tin\", \"Zinc\", \"Nickel\", \"Magnesium\""
 		},
-	"season": {
-			"prefix": "season",
+	"seasons": {
+			"prefix": "seasons",
 			"body": "\"Summer\", \"Autumn\", \"Winter\", \"Spring\""
 		},
-	"gemA": {
-			"prefix": "gemA",
+	"gemsA": {
+			"prefix": "gemsA",
 			"body": "\"Diamond\", \"Emerald\", \"Sapphire\", \"Ruby\", \"Pearl\""
 		},
-	"gemB": {
-			"prefix": "gemB",
+	"gemsB": {
+			"prefix": "gemsB",
 			"body": "\"Opal\", \"Topaz\", \"Amber\", \"Obsidian\", \"Tourmaline\", \"Zircon\""
 		},
-	"ocean": {
-			"prefix": "ocean",
+	"oceans": {
+			"prefix": "oceans",
 			"body": "\"Pacific Ocean\", \"Atlantic Ocean\", \"Indian Ocean\", \"Southern Ocean\", \"Arctic Ocean\""
 		},
-	"seaA": {
-			"prefix": "seaA",
+	"seasA": {
+			"prefix": "seasA",
 			"body": "\"Mediterranean Sea\", \"Caribbean Sea\", \"South China Sea\", \"Bering Sea\", \"Gulf Of Mexico\""
 		},
-	"seaB": {
-			"prefix": "seaB",
+	"seasB": {
+			"prefix": "seasB",
 			"body": "\"Okhotsk Sea\", \"Eash China Sea\", \"Hudson Bay\", \"Japan Sea\", \"Andaman Sea\", \"North Sea\", \"Red Sea\", \"Baltic Sea\""
 		},
-	"riverA": {
-			"prefix": "riverA",
+	"riversA": {
+			"prefix": "riversA",
 			"body": "\"Amazon\", \"Nile\", \"Yangtze\", \"Danube\", \"Ganges\""
 		},
-	"riverB": {
-			"prefix": "riverB",
+	"riversB": {
+			"prefix": "riversB",
 			"body": "\"Mekong\", \"Indus\", \"Volga\", \"Mississippi\", \"Sepik\""
 		},
-	"riverC": {
-			"prefix": "riverC",
+	"riversC": {
+			"prefix": "riversC",
 			"body": "\"Zambezi\", \"Euphrates\", \"Murray\", \"Tigris\", \"Zaire\""
 		},
-	"treeA": {
-			"prefix": "treeA",
+	"treesA": {
+			"prefix": "treesA",
 			"body": "\"Oak\", \"Maple\", \"Pine\", \"Sycamore\", \"Willow\""
 		},
-	"treeB": {
-			"prefix": "treeB",
+	"treesB": {
+			"prefix": "treesB",
 			"body": "\"Cedar\", \"Mahogany\", \"Palm\", \"Birch\", \"Fern\""
 		},
-	"treeC": {
-			"prefix": "treeC",
+	"treesC": {
+			"prefix": "treesC",
 			"body": "\"Acacia\", \"Hickory\", \"Mulberry\", \"Hibiscus\", \"Lilac\""
 		},
-	"treeD": {
-			"prefix": "treeD",
+	"treesD": {
+			"prefix": "treesD",
 			"body": "\"Myrtle\", \"Rosewood\", \"Poplar\", \"Sumac\", \"Zaragoza\", \"Spruce\", \"Koyamaki\", \"Fig\", \"Olive\", \"Camellia\""
 		},
-	"treeE": {
-			"prefix": "treeE",
+	"treesE": {
+			"prefix": "treesE",
 			"body": "\"Papaya\", \"Sandalwood\", \"Candleberry\", \"Mimosa\", \"Locust\", \"Amborella\", \"Hemlock\", \"Aspen\", \"Ash\", \"Beech\", \"Elm\""
 		},
-	"languageA": {
-			"prefix": "languageA",
+	"languagesA": {
+			"prefix": "languagesA",
 			"body": "\"English\", \"Mandarin\", \"Hindi\", \"Spanish\", \"French\""
 		},
-	"languageB": {
-			"prefix": "languageB",
+	"languagesB": {
+			"prefix": "languagesB",
 			"body": "\"Arabic\", \"Bengali\", \"Russian\", \"Portuguese\", \"Indonesian\""
 		},
-	"languageC": {
-			"prefix": "languageC",
+	"languagesC": {
+			"prefix": "languagesC",
 			"body": "\"Urdu\", \"German\", \"Japanese\", \"Swahili\", \"Marathi\""
 		},
-	"languageD": {
-			"prefix": "languageD",
+	"languagesD": {
+			"prefix": "languagesD",
 			"body": "\"Telugu\", \"Punjabi\", \"Wu\", \"Tamil\", \"Turkish\""
+		},
+	"directionsA": {
+			"prefix": "directionsA",
+			"body": "\"North\", \"East\", \"South\", \"West\""
+		},
+	"directionsB": {
+			"prefix": "directionsB",
+			"body": "\"North\", \"North_East\", \"East\", \"South_East\", \"South\", \"South_West\", \"West\", \"North_West\""
 		},
 	"numbersA": {
 			"prefix": "numbersA",
