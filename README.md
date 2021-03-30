@@ -5,17 +5,17 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
 
 ### Available Categories
 
-`Flowers` `Fruits`   `Colors` `Birds`   `Animals` `Gems`   `Zodiac`
-`Insects` `Fish`     `Food`   `Drinks`  `Months`  `Days`   `Vegetables`
+`Flowers` `Fruits`   `Colors` `Birds`   `Animals` `Gems`   `Directions`
+`Insects` `Fish`     `Foods`  `Drinks`  `Months`  `Days`   `Vegetables`
 `Planets` `Elements` `Metals` `Greeks`  `Romans`  `Trees`  `Languages`
-`Oceans`  `Seas`     `Rivers` `Seasons` `Numbers`
+`Oceans`  `Seas`     `Rivers` `Seasons` `Zodiacs` `Numbers`
 
 
 ### Examples
 
  Text Entered  |  Result
 -------------- | --------------------------------------------------------------------
- `floa`        | `"Rose", "Dahlia", "Magnolia", "Tulip", "Daisy"`
+ `flwa`        | `"Rose", "Dahlia", "Magnolia", "Tulip", "Daisy"`
  `frua`        | `"Apple", "Mango", "Avocado", "Cherry", "Pomegranate"`
  `bira`        | `"Dove", "Eagle", "Raven", "Penguin", "Owl"`
  `fisa`        | `"Shark", "Whale", "Dolphin", "Salmon", "Trout"`
@@ -54,7 +54,7 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
 
 ### Notes
 
-* Most of the data has been sourced, with thanks, from `wikipedia`.
+* Most of the data has been sourced, with thanks, from https://www.wikipedia.org
 * Released under ... Creative Commons License (CC BY-SA).
 
 

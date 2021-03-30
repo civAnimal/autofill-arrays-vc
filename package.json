@@ -2,7 +2,7 @@
     "name": "autofill-arrays",
     "displayName": "AutoFill Arrays",
     "description": "Fill arrays and other collections quickly and easily.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "civAnimal",
     "icon": "icon.png",
     "repository": {

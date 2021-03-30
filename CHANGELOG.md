@@ -1,6 +1,12 @@
 # Change Log
 
 
+## 0.0.4
+
+- added `Directions` category
+- some corrections and cleanup
+
+
 ## 0.0.3
 
 - added `Numbers` category
