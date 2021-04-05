@@ -1,6 +1,11 @@
 # Change Log
 
 
+## 0.0.5
+
+- added demo.gif
+
+
 ## 0.0.4
 
 - added `Directions` category
