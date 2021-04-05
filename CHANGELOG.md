@@ -1,6 +1,11 @@
 # Change Log
 
 
+## 0.0.6
+
+- some corrections
+
+
 ## 0.0.5
 
 - added demo.gif
