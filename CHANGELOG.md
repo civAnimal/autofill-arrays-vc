@@ -1,6 +1,12 @@
 # Change Log
 
 
+## 1.0.0
+
+- first stable release
+- improvements and cleanup
+
+
 ## 0.0.6
 
 - some corrections
@@ -29,4 +35,4 @@
 
 ## 0.0.1
 
-- Initial release
+- initial release

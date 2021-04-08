@@ -1,6 +1,6 @@
 ## AutoFill Arrays For VS Code
 
-This plugin allows you to fill `Arrays` with lists of interesting/meaningful words by typing just a few keys. You have a choice to pick from several available categories. You could intuitively extend your lists as long as you want them to be. It works equally well in all mainstream programming languages, like `Python`, `Javascript`, `Java`, `C`, `C++`, `C#`, `Lua`, `Ruby`, etc. You could also use it with other array-like collection objects/types, like `List`, `Set`, `Tuple`, etc.
+This plugin allows you to fill `Arrays` with lists of interesting/meaningful words or numbers by typing just a few keys. You have a choice to pick from several available categories. It works equally well in all mainstream programming languages, like `Python`, `Javascript`, `Java`, `C`, `C++`, `C#`, `Lua`, `Ruby`, etc. You could also use it with other array-like collection objects/types, like `List`, `Set`, `Tuple`, etc.
 
 
 ![DEMO](https://github.com/civAnimal/autofill-arrays-vc/blob/main/demo.gif?raw=true)
@@ -8,10 +8,10 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
 
 ### Available Categories
 
-`Flowers` `Fruits`   `Colors` `Birds`   `Animals` `Gems`   `Directions`
-`Insects` `Fish`     `Foods`  `Drinks`  `Months`  `Days`   `Vegetables`
-`Planets` `Elements` `Metals` `Greeks`  `Romans`  `Trees`  `Languages`
-`Oceans`  `Seas`     `Rivers` `Seasons` `Zodiacs` `Numbers`
+`Flowers`, `Fruits`,   `Colors`, `Birds`,   `Animals`, `Gems`,   `Directions`,
+`Insects`, `Fish`,     `Foods`,  `Drinks`,  `Months`,  `Days`,   `Vegetables`,
+`Planets`, `Elements`, `Metals`, `Greeks`,  `Romans`,  `Trees`,  `Languages`,
+`Oceans`,  `Seas`,     `Rivers`, `Seasons`, `Zodiacs`, `Numbers`
 
 
 ### Examples
@@ -39,20 +39,10 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
 * With a combination of few key-strokes, you could construct quite long lists within a matter of seconds.
 
 
-### Installation _ via Visual Studio Marketplace
+### Installation
 
 * From VS Code press `ctrl + shift + x` or do : _View_ → _Extensions_ to open Extensions panel.
 * Search for the extension: `AutoFill Arrays` and install it.
-* After installation completes, you could start using this extension straight away; no restart required.
-
-
-### Installation _ Manually
-
-* Download the `autofill-arrays.vsix` extension file from this repository.
-* From VS Code press `ctrl + shift + x` or do : _View_ → _Extensions_ to open Extensions panel.
-* From top toolbar click the 3-dotted `Other Actions` button and select `Install From VSIX`.
-* Select the downloaded extension file to install it.
-* You could start using this extension straight away; no restart required.
 
 
 ### Notes
