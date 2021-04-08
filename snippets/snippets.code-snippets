@@ -65,7 +65,7 @@
 		},
 	"fishB": {
 			"prefix": "fishB",
-			"body": "\"Pomfret\", \"Snapper\", \"Sardine\", \"Carp\", \"Koi\""
+			"body": "\"Fugu\", \"Snapper\", \"Sardine\", \"Carp\", \"Koi\""
 		},
 	"fishC": {
 			"prefix": "fishC",
@@ -73,7 +73,7 @@
 		},
 	"fishD": {
 			"prefix": "fishD",
-			"body": "\"Bowfin\", \"Angler\", \"Anchovy\", \"Duckbill\", \"Sabertooth\", \"Zander\", \"Zingel\", \"Dory\", \"Herring\", \"Mahi_Mahi\", \"Manta_Ray\", \"Stingray\", \"Sturgeon\", \"Goldfish\", \"Rohu\", \"Eel\""
+			"body": "\"Pomfret\", \"Bowfin\", \"Angler\", \"Anchovy\", \"Duckbill\", \"Sabertooth\", \"Zander\", \"Zingel\", \"Dory\", \"Herring\", \"Mahi_Mahi\", \"Manta_Ray\", \"Stingray\", \"Sturgeon\", \"Goldfish\", \"Rohu\", \"Eel\""
 		},
 	"birdsA": {
 			"prefix": "birdsA",
@@ -335,12 +335,12 @@
 			"prefix": "languagesD",
 			"body": "\"Telugu\", \"Punjabi\", \"Wu\", \"Tamil\", \"Turkish\""
 		},
-	"directionsA": {
-			"prefix": "directionsA",
+	"directionsFour": {
+			"prefix": "directionsFour",
 			"body": "\"North\", \"East\", \"South\", \"West\""
 		},
-	"directionsB": {
-			"prefix": "directionsB",
+	"directionsEight": {
+			"prefix": "directionsEight",
 			"body": "\"North\", \"North_East\", \"East\", \"South_East\", \"South\", \"South_West\", \"West\", \"North_West\""
 		},
 	"numbersA": {
@@ -438,5 +438,77 @@
 	"numbersPrimeF": {
 			"prefix": "numbersPrimeF",
 			"body": "151, 157, 163, 167, 173, 179, 181, 191, 193, 197"
+		},
+	"nummbersG": {
+			"prefix": "nummbersG",
+			"body": "346, 347, 348, 349, 350, 351, 352, 353, 354, 355"
+		},
+	"nummbersH": {
+			"prefix": "nummbersH",
+			"body": "356, 357, 358, 359, 360, 361, 362, 363, 364, 365"
+		},
+	"nummbersI": {
+			"prefix": "nummbersI",
+			"body": "366, 367, 368, 369, 370, 371, 372, 373, 374, 375"
+		},
+	"nummbersJ": {
+			"prefix": "nummbersJ",
+			"body": "376, 377, 378, 379, 380, 381, 382, 383, 384, 385"
+		},
+	"nummbersK": {
+			"prefix": "nummbersK",
+			"body": "386, 387, 388, 389, 390, 391, 392, 393, 394, 395"
+		},
+	"nummbersL": {
+			"prefix": "nummbersL",
+			"body": "396, 397, 398, 399, 400, 401, 402, 403, 404, 405"
+		},
+	"nummbersOddG": {
+			"prefix": "nummbersOddG",
+			"body": "391, 393, 395, 397, 399, 401, 403, 405, 407, 409"
+		},
+	"nummbersOddH": {
+			"prefix": "nummbersOddH",
+			"body": "411, 413, 415, 417, 419, 421, 423, 425, 427, 429"
+		},
+	"nummbersOddI": {
+			"prefix": "nummbersOddI",
+			"body": "431, 433, 435, 437, 439, 441, 443, 445, 447, 449"
+		},
+	"nummbersOddJ": {
+			"prefix": "nummbersOddJ",
+			"body": "451, 453, 455, 457, 459, 461, 463, 465, 467, 469"
+		},
+	"nummbersOddK": {
+			"prefix": "nummbersOddK",
+			"body": "471, 473, 475, 477, 479, 481, 483, 485, 487, 489"
+		},
+	"nummbersOddL": {
+			"prefix": "nummbersOddL",
+			"body": "491, 493, 495, 497, 499, 501, 503, 505, 507, 509"
+		},
+	"nummbersEvenG": {
+			"prefix": "nummbersEvenG",
+			"body": "392, 394, 396, 398, 400, 402, 404, 406, 408, 410"
+		},
+	"nummbersEvenH": {
+			"prefix": "nummbersEvenH",
+			"body": "412, 414, 416, 418, 420, 422, 424, 426, 428, 430"
+		},
+	"nummbersEvenI": {
+			"prefix": "nummbersEvenI",
+			"body": "432, 434, 436, 438, 440, 442, 444, 446, 448, 450"
+		},
+	"nummbersEvenJ": {
+			"prefix": "nummbersEvenJ",
+			"body": "452, 454, 456, 458, 460, 462, 464, 466, 468, 470"
+		},
+	"nummbersEvenK": {
+			"prefix": "nummbersEvenK",
+			"body": "472, 474, 476, 478, 480, 482, 484, 486, 488, 490"
+		},
+	"nummbersEvenL": {
+			"prefix": "nummbersEvenL",
+			"body": "492, 494, 496, 498, 500, 502, 504, 506, 508, 510"
 		}
 }
